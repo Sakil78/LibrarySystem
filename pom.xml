@@ -47,7 +47,7 @@
                         <!-- Usage: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.mylibrary.App</mainClass>
+                            <mainClass>com.mylibrary.LibraryUI</mainClass>
                         </configuration>
                     </execution>
                 </executions>

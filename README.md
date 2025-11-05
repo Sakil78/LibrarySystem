@@ -1,5 +1,7 @@
 # Library Management System
 
+![Library System UI](image.png)
+
 A modern JavaFX-based Library Management System that connects to a MySQL database. This project demonstrates robust CRUD operations (Create, Read, Update, Delete) and sorting for managing books in a library.
 
 ## Features

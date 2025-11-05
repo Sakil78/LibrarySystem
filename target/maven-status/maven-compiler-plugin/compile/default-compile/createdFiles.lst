@@ -1,0 +1,4 @@
+com\mylibrary\DatabaseConnection.class
+com\mylibrary\Book.class
+module-info.class
+com\mylibrary\LibraryUI.class
